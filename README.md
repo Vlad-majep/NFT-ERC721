@@ -1,8 +1,8 @@
 # NFT-ERC721-
 
 
-npx hardhat help
-npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.ts
-```
+how to use it?
+
+npx harhdat --network goerli run scripts/deploy.ts
+
+node scripts/mint-nft.js
